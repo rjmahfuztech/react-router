@@ -1,0 +1,7 @@
+.detail-style{
+    background-color: black;
+    color: white;
+}
+.detail-style .icon-style img{
+    max-width: 70px;
+}
