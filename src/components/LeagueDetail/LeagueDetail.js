@@ -12,7 +12,7 @@ const LeagueDetail = () => {
         .then(res => res.json())
         .then(data => setLeagueDetail(data.leagues));
     }, [leagueId]);
-    // console.log(leagueDetail);
+    
     return (
         <div>
             {

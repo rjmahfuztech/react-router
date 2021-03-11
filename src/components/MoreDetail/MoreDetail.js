@@ -14,7 +14,7 @@ const moreDetail = (props) => {
     const { strLeague, strCountry, intFormedYear, strBanner, strGender, strCurrentSeason, strLogo, strTwitter, strYoutube, strFacebook } = props.leagueInfo;
 
     const genderMatch = `${strGender}` === "Male" ? <img src={male} className="img-fluid" alt="Male" /> : <img src={female} className="img-fluid" alt="Female" />;
-    // console.log(props.leagueInfo);
+    
     return (
         <div className="container">
             <Card className="bg-dark text-white banner-style">
