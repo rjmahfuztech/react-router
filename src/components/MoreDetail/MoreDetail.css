@@ -3,5 +3,20 @@
     color: white;
 }
 .detail-style .icon-style img{
-    max-width: 70px;
+    max-width: 10%;
 }
+.banner{
+    opacity: 40%;
+}
+.league-logo{
+    max-width: 30%;
+}
+.detail-info{
+    margin: 0 6%;
+}
+.detail-info-style{
+    background-color: indigo;
+    padding: 10px;
+    border-radius: 10px;
+}
+

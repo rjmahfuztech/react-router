@@ -11,8 +11,8 @@ const LeagueDetail = () => {
         fetch(url)
         .then(res => res.json())
         .then(data => setLeagueDetail(data.leagues));
-    }, []);
-    console.log(leagueDetail);
+    }, [leagueId]);
+    // console.log(leagueDetail);
     return (
         <div>
             {
