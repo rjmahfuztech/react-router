@@ -22,7 +22,7 @@ const Home = () => {
                     <Card.Img className="banner-img" src="https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-2018-passion-world-cup-football-banner-image_193768.jpg" alt="Background image" />
                     <Card.ImgOverlay className="alignment">
                         <Card.Title>
-                            <h1 className="position">World Football Leagues Detail</h1>
+                            <h1 className="position">World Football Player Leagues Detail</h1>
                         </Card.Title>
                     </Card.ImgOverlay>
                 </Card>
