@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Welcome to my React Router project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Live Link`
 
-## Available Scripts
-
-In the project directory, you can run:
+Click Here to go live [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 

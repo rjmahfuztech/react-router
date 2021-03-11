@@ -2,7 +2,6 @@ import React from 'react';
 import './Home.css';
 import { useEffect, useState } from 'react';
 import League from '../League/League';
-import banner from '../../banner.jpg';
 import { Card } from 'react-bootstrap';
 
 
@@ -15,15 +14,15 @@ const Home = () => {
             .then(res => res.json())
             .then(data => setLeagues(data.leagues))
     }, []);
-    
+
     return (
         <div className="container">
             <div>
                 <Card className="banner-style">
-                    <Card.Img className="banner-img" src={banner} alt="Background image" />
+                    <Card.Img className="banner-img" src="https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-2018-passion-world-cup-football-banner-image_193768.jpg" alt="Background image" />
                     <Card.ImgOverlay className="alignment">
                         <Card.Title>
-                            <h2 className="position">World Football Leagues Detail</h2>
+                            <h1 className="position">World Football Leagues Detail</h1>
                         </Card.Title>
                     </Card.ImgOverlay>
                 </Card>
