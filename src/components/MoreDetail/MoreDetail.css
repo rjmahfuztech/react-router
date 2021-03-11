@@ -6,7 +6,8 @@
     max-width: 10%;
 }
 .banner{
-    opacity: 60%;
+    opacity: 35% !important;
+    border-radius: 0 !important;
 }
 .league-logo{
     max-width: 30%;
