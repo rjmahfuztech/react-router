@@ -18,6 +18,7 @@ const LeagueDetail = () => {
             {
                 leagueDetail.map(leagueInfo => <MoreDetail leagueInfo = {leagueInfo} key ={leagueInfo.idLeague}></MoreDetail>)
             }
+            <p>dd</p>
         </div>
     );
 };
