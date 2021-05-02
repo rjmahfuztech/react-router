@@ -3,7 +3,7 @@
 ### World Football Player League Detail
 
 <a href="https://react-router-rjmahfuz.netlify.app/">
-  <img width="100px" height="100px" src="https://i.ibb.co/BLcDrVh/players.jpg" />
+  <img width="100%" height="100%" src="https://i.ibb.co/BLcDrVh/players.jpg" />
 </a>
 
 ### `Live Link`
