@@ -13,9 +13,9 @@ This project is created by using API from The [https://thesportsdb.com/api.php](
 
 ### `About this Project`
 
-+ Used API key.
-+ World all players leagues detail.
-+ You can to know every single league full detail.
+1. Used API key.
+2. World all players leagues detail.
+3. You can to know every single league full detail.
 
 ### `Used Technology`
 
