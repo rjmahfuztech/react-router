@@ -13,14 +13,14 @@ This project is created by using API from The [https://thesportsdb.com/api.php](
 
 ### `About this Project`
 
-In this project have to pages.
-(1) Home:
-There is a banner at the top of the home page and under the banner have
-many cards where the league has some information.
++ Used API key.
++ World all players leagues detail.
++ You can to know every single league full detail.
 
-(2) LeagueDetail:
-The league detail page has a banner and a logo on the banner.
-Below that is a lot of league information. After that have some demo text and 
-some social link.
+### `Used Technology`
 
++ React.js
++ React Router
++ JavaScript.
++ CSS3
 
